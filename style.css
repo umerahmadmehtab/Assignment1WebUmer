@@ -1,0 +1,347 @@
+
+body {
+	background-color:rgb(231,71,60);
+    text-align: center;
+
+}
+
+figcaption {
+	color: yellow;
+	font-weigt: bold;
+    font-family: "Comic Sans MS", cursive, sans-serif; 
+	font-size: 50px;
+}
+
+#alphaA{
+    position: absolute;
+    top: 10%;
+    left: 12%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaB{
+    position: absolute;
+    top: 10%;
+    left: 15%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaC{
+    position: absolute;
+    top: 10%;
+    left: 18%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaD{
+    position: absolute;
+    top: 10%;
+    left: 21%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaE{
+    position: absolute;
+    top: 10%;
+    left: 24%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaF{
+    position: absolute;
+    top: 10%;
+    left: 27%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaG{
+    position: absolute;
+    top: 10%;
+    left: 30%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaH{
+    position: absolute;
+    top: 10%;
+    left: 33%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaI{
+    position: absolute;
+    top: 10%;
+    left: 36%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaJ{
+    position: absolute;
+    top: 10%;
+    left: 39%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+
+#alphaK{
+    position: absolute;
+    top: 10%;
+    left: 42%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaL{
+    position: absolute;
+    top: 10%;
+    left: 45%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaM{
+    position: absolute;
+    top: 10%;
+    left: 48%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaN{
+    position: absolute;
+    top: 10%;
+    left: 51%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaO{
+    position: absolute;
+    top: 10%;
+    left: 54%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaP{
+    position: absolute;
+    top: 10%;
+    left: 57%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaQ{
+    position: absolute;
+    top: 10%;
+    left: 60%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaR{
+    position: absolute;
+    top: 10%;
+    left: 63%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaS{
+    position: absolute;
+    top: 10%;
+    left: 66%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaT{
+    position: absolute;
+    top: 10%;
+    left: 69%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaU{
+    position: absolute;
+    top: 10%;
+    left: 72%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaV{
+    position: absolute;
+    top: 10%;
+    left: 75%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaW{
+    position: absolute;
+    top: 10%;
+    left: 78%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaX{
+    position: absolute;
+    top: 10%;
+    left: 81%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaY{
+    position: absolute;
+    top: 10%;
+    left: 84%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#alphaZ{
+    position: absolute;
+    top: 10%;
+    left: 87%;
+     
+    font-family: sans-serif;
+	color: yellow;
+}
+
+#images{
+    position: absolute;
+    top:30%;
+    left:45%;
+        
+}
+
+
+#images div{
+display: none;
+}
+
+#images div:target{
+display: block;
+}
+
+#circle {
+      position: absolute;
+      background-color: blue;
+      border: 3px solid #333;
+      margin: 15px auto;
+      width: 200px;
+      height: 200px;
+      border-radius: 100px;
+}
+
+#oval {
+    
+    width: 200px;
+    height: 100px;
+    background: blue;
+     border: 3px solid #333;
+    -moz-border-radius: 100px / 50px;
+    -webkit-border-radius: 100px / 50px;
+    border-radius: 100px / 50px;
+}
+
+#square {
+	width: 200px;
+	height: 200px;
+	background: blue;
+     border: 3px solid #333;
+}
+
+#triangle {
+	width: 0;
+	height: 0;
+	border-left: 100px solid transparent;
+	border-right: 100px solid transparent;
+	border-bottom: 150px solid blue;
+   
+}
+
+
+h1 {
+     
+    font-family: "Comic Sans MS", cursive, sans-serif;
+	color: white;
+}
+
+a {
+	color: yellow;
+	text-decoration: none;
+}
+
+#circle figcaption{
+    position: absolute;
+        top : 200px;
+
+}
+
+#oval figcaption{
+    position: absolute;
+        top : 150px;
+        left: 40px;
+
+}
+
+#square figcaption{
+    position: absolute;
+        top : 200px;
+
+}
+
+#triangle figcaption{
+    position: absolute;
+        top : 200px;
+        left: -20px;
+
+}
+
+#home{
+position: absolute;
+top: 80%;
+left: 580px;
+text-decoration: underline;
+}
+
